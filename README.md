@@ -10,12 +10,13 @@ Untuk mengimplementasikan enkapsulasi, tidak diinginkan sembarang object dapat m
 
 
 ## Perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang maksimum Mengapa bisa demikian?
-_Di hasil run nya sudah di cetak jika Penumpang Bus Saat ini adalah_ **13** _Dan Kapasitas maksimum penumpang adalah_ **15**
+> _Di hasil run nya sudah di cetak jika Penumpang Bus Saat ini adalah_ **13** _Dan Kapasitas maksimum penumpang adalah_ **15**
 
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Bus2.PNG)
-
+# Penjelasan ?
+> **Disitu Hampir sama deh kek yang latihan 1 :v**
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 3  --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Data.PNG)
