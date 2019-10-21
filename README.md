@@ -1,7 +1,4 @@
-# Tugas_PBO2
-
-
-# 🅿🅱🅾
+# 🅿🅱🅾 𝟚 
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Bus1.PNG)
