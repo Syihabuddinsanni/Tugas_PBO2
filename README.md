@@ -20,7 +20,7 @@ Ada **15 Orang** Kemudian Ditambahkan lagi dengan penumpang baru sebanyak **5 Or
 _15 + 5 = **20 Orang**_ Kemudian Di program Penumpang di tambah lagi sebanyak 26 Penumpang jadi Yang seharusnya di cetak adalah
 _20 + 26 = **46 Orang**_ Tetapi karena batas maksimum penumpang nya adalah 40 orang maka akan di SOUT "**PENUMPANG MELEBIHI KUOTA**" 
 dan akan memunculkan nilai yang sebelumnya.
-## Solusi ?
+# Solusi ?
 _Alangkah Lebih baiknya jika kita menambahkan penumpang yang hasilnya nanti tidak melebihi dari 40 / Kapasitas Maksimum penumpang
 Agar Output yang di cetak bisa sempurna :D AOWK
 
