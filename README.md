@@ -28,7 +28,7 @@ Agar Output yang di cetak bisa sempurna :D AOWK_
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Data.PNG)
 # About Him ?
 Follow Ig nya :v 
-- [x] [Instagram](https://www.instagram.com/_sh3hub/)     | <== **Click tulisan biru di samping**
+- [x] [Instagram 1](https://www.instagram.com/_sh3hub/)   | <== **Click tulisan biru di samping**
 - [x] [Instagram 2](https://www.instagram.com/bolt.agar/) | <== **Click tulisan biru di samping**
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ 1 --
