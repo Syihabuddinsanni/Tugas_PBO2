@@ -1,12 +1,14 @@
 # 🅿🅱🅾 𝟚 
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
-![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Bus1.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/LATIHAN%201%20REWORK%20EDISI.PNG)
 
 
 
 ## Perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang maksimum Mengapa bisa demikian?
-> _Di hasil run nya sudah di cetak jika Penumpang Bus Saat ini adalah_ **13** _Dan Kapasitas maksimum penumpang adalah_ **15**
+> Di Hasil Run Output nya tercetak bahwa **Jumlah Penumpang Bus Sekarang / saat ini adalah 16 Orang** Sedangkan Maksimum Kapasitas
+Penumpang adalah **15 Orang** Hal tersebut Terjadi karena Di penambahan Penumpang yang ke 3 (TIGA) BusMini Menambahkan **8 Orang**
+Penumpang Yang awalnya Ada **8 Orang** Orang penumpang kemudian ditambah lagi **8 Orang** Menjadi **16 Orang** Penumpang
 
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
