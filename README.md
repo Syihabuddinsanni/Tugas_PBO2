@@ -5,8 +5,7 @@
 # Apa Itu Accessor Method Dan Mutator Method ?
 Accessor Methd | Mutator Method
 ------------ | -------------
-Untuk mengimplementasikan enkapsulasi, tidak diinginkan sembarang object dapat
-mengakses data kapan saja | Bagaimana jika kita menghendaki object lain untuk mengubah data yang dapat
+Untuk mengimplementasikan enkapsulasi, tidak diinginkan sembarang object dapat mengakses data kapan saja | Bagaimana jika kita menghendaki object lain untuk mengubah data yang dapat
 kita lakukan adalah membuat method yang dapat memberi atau mengubah nilai
 variable
 Keterangan : Public - menjelaskan bahwa method tersebut dapat diakses dari object luar class
