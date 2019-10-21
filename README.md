@@ -34,7 +34,7 @@ Agar Output yang di cetak bisa sempurna :D AOWK_
 # Maksudnya Gimana nih ?
 _Jadi nih :v Disitu saya memasang maksimum berat penumpang nya hanya_ **150 kg** _nah kemudian di program tersebut saya memasang
 rata rata berat penumpangnya adalah_ **40 kg** _nah maka saat dicetak yang pertama adalah berat penumpang bus yang sekarang atau saat ini
-adalah_ **40 kg** _ Nah Jika password nya salah maka program tersebut akan memunculkan nilai yang sebelumnya dicetak.
+adalah_ **40 kg** _Nah Jika password nya salah maka program tersebut akan memunculkan nilai yang sebelumnya dicetak._
 ### Mengapa kok Setelah 40kg Kemudian Menjadi 80 kg dan 120 kg ?
 > Nah Jadi karena saya memasang average berat penumpang sebesar 40 kg jadi setiap cetak maka akan di kali 2 / ditambah dengan 1x average
 yang sudah di pasang jadi misal jika berat penumpang bus nya **40 Jadi sama dengan 40 + 40 = 80 atau 40 x 2 = 80** dan seterusnya
