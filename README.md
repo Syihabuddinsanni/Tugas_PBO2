@@ -23,7 +23,7 @@ Untuk mengimplementasikan enkapsulasi, tidak diinginkan sembarang object dapat m
 
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ 1 --
-![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Data.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/BusPraktikum.PNG)
 
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ 2 --
