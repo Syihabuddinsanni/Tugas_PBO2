@@ -22,14 +22,28 @@ _20 + 26 = **46 Orang**_ Tetapi karena batas maksimum penumpang nya adalah 40 or
 dan akan memunculkan nilai yang sebelumnya.
 # Solusi ?
 _Alangkah Lebih baiknya jika kita menambahkan penumpang yang hasilnya nanti tidak melebihi dari 40 / Kapasitas Maksimum penumpang
-Agar Output yang di cetak bisa sempurna :D AOWK
+Agar Output yang di cetak bisa sempurna :D AOWK_
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 3  --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Data.PNG)
+#
 
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ 1 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/BusPraktikum.PNG)
+# Maksudnya Gimana nih ?
+_Jadi nih :v Disitu saya memasang maksimum berat penumpang nya hanya_ **150 kg** _nah kemudian di program tersebut saya memasang
+rata rata berat penumpangnya adalah_ **40 kg** _nah maka saat dicetak yang pertama adalah berat penumpang bus yang sekarang atau saat ini
+adalah_ **40 kg** _ Nah Jika password nya salah maka program tersebut akan memunculkan nilai yang sebelumnya dicetak.
+# Mengapa kok Setelah 40kg Kemudian Menjadi 80 kg dan 120 kg ?
+Nah Jadi karena saya memasang average berat penumpang sebesar 40 kg jadi setiap cetak maka akan di kali 2 / ditambah dengan 1x average
+yang sudah di pasang jadi misal jika berat penumpang bus nya **40 Jadi sama dengan 40 + 40 = 80 atau 40 x 2 = 80** dan seterusnya
+hingga memenuhi syarat.
+# Kenapa Kok 120 Kg Tertulis "BERAT PENUMPANG OVERLOAD" Padahal kan disitu batas Maks nya 150 ?
+> Hal tersebut terjadi karena setelah **120 kg** maka akan jadi **160 kg** Jadi Akan Terkena batas Maks berat penumpang
+# Wah Kok tau Jumlah penumpang nya Dari mana ?
+Disitu kan tertulis kalau Berat penumpang yang terakhir adalah **120 Kg** Jadi tinggal bagi aja Dengan rata rata / average nya
+jadi ketemu hasilnya Contoh di program tersebut : (**120 Kg / 40 kg = 3 Orang**).
 
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ 2 --
