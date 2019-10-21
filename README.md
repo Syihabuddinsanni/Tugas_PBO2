@@ -50,8 +50,8 @@ jadi ketemu hasilnya Contoh di program tersebut : (**120 Kg / 40 kg = 3 Orang**)
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Bola.PNG)
 # Mau Rumus ?
 #### Note : Pencet aja tulisan biru dibawah Untuk Mengetahui Rumus rumus yang tidak penting :v
-[Rumus Luas Permukaan](http://ukurandansatuan.com/cara-menghitung-luas-permukaan-bola.html/)
-[Rumus Volume Bola + Contoh Soal](https://rumus.co.id/volume-bola/)
+- [Rumus Luas Permukaan](http://ukurandansatuan.com/cara-menghitung-luas-permukaan-bola.html/)
+- [Rumus Volume Bola + Contoh Soal](https://rumus.co.id/volume-bola/)
 
 
 # ===-- **KESIMPULAN** --===
