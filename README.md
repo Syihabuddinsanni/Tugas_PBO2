@@ -6,7 +6,7 @@
 
 
 ## Perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang maksimum Mengapa bisa demikian?
- Di Hasil Run Output nya tercetak bahwa **Jumlah Penumpang Bus Sekarang / saat ini adalah 16 Orang** Sedangkan Maksimum Kapasitas
+> Di Hasil Run Output nya tercetak bahwa **Jumlah Penumpang Bus Sekarang / saat ini adalah 16 Orang** Sedangkan Maksimum Kapasitas
 Penumpang adalah **15 Orang** Hal tersebut Terjadi karena Di penambahan Penumpang yang ke 3 (TIGA) BusMini Menambahkan **8 Orang**
 Penumpang Yang awalnya Ada **8 Orang** Orang penumpang kemudian ditambah lagi **8 Orang** Menjadi **16 Orang** Penumpang
 
@@ -15,7 +15,14 @@ Penumpang Yang awalnya Ada **8 Orang** Orang penumpang kemudian ditambah lagi **
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Bus2.PNG)
 # Penjelasan ?
 
-> **Disitu Hampir sama deh kek yang latihan 1 :v**
+> Jadi Di Program tersebut Diketahui Bahwa Batas Penumpang maksimal adalah **40 Penumpang**. Nah Penumpang Yang pertama
+Ada **15 Orang** Kemudian Ditambahkan lagi dengan penumpang baru sebanyak **5 Orang** Jadi Yang di cetak selanjutnya adalah
+_15 + 5 = **20 Orang**_ Kemudian Di program Penumpang di tambah lagi sebanyak 26 Penumpang jadi Yang seharusnya di cetak adalah
+_20 + 26 = **46 Orang**_ Tetapi karena batas maksimum penumpang nya adalah 40 orang maka akan di SOUT "**PENUMPANG MELEBIHI KUOTA**" 
+dan akan memunculkan nilai yang sebelumnya.
+## Solusi ?
+_Alangkah Lebih baiknya jika kita menambahkan penumpang yang hasilnya nanti tidak melebihi dari 40 / Kapasitas Maksimum penumpang
+Agar Output yang di cetak bisa sempurna :D AOWK
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 3  --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO2/blob/master/SS%20RUN%20PBO2/SS%20RUN%20OUTPUT/Data.PNG)
